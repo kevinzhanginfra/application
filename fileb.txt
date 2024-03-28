@@ -1,2 +1,4 @@
 this is a change
 new changes
+
+another change for squash merge
