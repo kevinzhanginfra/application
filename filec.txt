@@ -1,3 +1,5 @@
 this is fileC
 
 let's make a change 
+
+another change for squash merge
